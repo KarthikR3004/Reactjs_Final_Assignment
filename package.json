@@ -2,7 +2,7 @@
   "name": "newproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KarthikR3004.github.io/zipy-app",
+  "homepage": "https://KarthikR3004.github.io/zipy-app/.",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
