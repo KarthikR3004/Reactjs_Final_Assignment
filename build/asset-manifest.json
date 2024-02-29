@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zipy-app/static/css/main.332fa9c0.css",
+    "main.js": "/zipy-app/static/js/main.2c3f816c.js",
+    "static/media/avatar.png": "/zipy-app/static/media/avatar.12e64bc7efc49e58e460.png",
+    "index.html": "/zipy-app/index.html",
+    "main.332fa9c0.css.map": "/zipy-app/static/css/main.332fa9c0.css.map",
+    "main.2c3f816c.js.map": "/zipy-app/static/js/main.2c3f816c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332fa9c0.css",
+    "static/js/main.2c3f816c.js"
+  ]
+}
